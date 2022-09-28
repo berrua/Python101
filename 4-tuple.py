@@ -1,4 +1,5 @@
 #Tuple
+#kapsayicidir, siralidir ve degistirilemez
 
 t = ("ali","veli",1,2,3.2,[1,2,3,4])
 
