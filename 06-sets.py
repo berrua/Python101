@@ -97,4 +97,3 @@ set1.issubset(set2)
 #bir kumenin diger bir kumeyi kapsayip kapsamadigini sorgular
 
 set1.issuperset(set2)
-
