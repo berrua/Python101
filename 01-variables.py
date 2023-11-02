@@ -15,8 +15,17 @@ type("123")
 "a" "b"
 "a " + "b"
 "a" + "-b"
-"a" * 3
+"a" * 3 
 "a " * 3
+
+string = "hello world"
+string[2] #2. indisteki karakter 
+string[:2] #ilk 2 karakter 
+string[::] #tamami
+string[::3] #3'er atla
+string[2:5] #2'den basla, 5'te dur
+string[2:5:2] #2'den basla, 5'te dur, 2'şer atla'
+string[::-1] #tersten yazma 
 
 #metodlar (fonksiyonlar)
 a = "hello" #atama
@@ -52,4 +61,3 @@ a = "* hello *"
 a.strip("*")
 a = "hellok"
 a.strip("k")
-
