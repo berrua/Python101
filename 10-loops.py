@@ -91,4 +91,4 @@ for i in maaslar:
 sayi = 10
 while sayi < 20:
     sayi += 1
-    print(sayi)
+    print(sayi) 

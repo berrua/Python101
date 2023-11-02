@@ -24,5 +24,3 @@ print("Hello", "World")
 #fonksiyonlarin genel amaclarini bicimlendirmek icin kullanilan alt gorev belirticilere arguman denir
 print("Hello", "World", sep = "_")
 print("Hello", "World", sep = ",")
-
-?print

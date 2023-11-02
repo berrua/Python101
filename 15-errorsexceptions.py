@@ -21,5 +21,3 @@ try: #calistirmayi dene
     print(a/b)
 except TypeError: #hatayi istisna olarak gor
     print("Sayi ve string toplanamaz")
-    
-    
