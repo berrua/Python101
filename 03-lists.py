@@ -101,3 +101,7 @@ liste3
 
 liste3.clear() #liste temizleme
 liste3
+
+liste4 = [1,2,3,4]
+liste4.pop() #son elemani cikar
+liste4.reverse() #tersine cevirir

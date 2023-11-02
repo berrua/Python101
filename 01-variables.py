@@ -36,8 +36,9 @@ c = 8
 b * c
 
 len(a) #boyutunu yazar
-len("hello")
+len("hello world")
 
+a.capitalize() #ilk harfi buyuk harfe cevirir
 a.upper() #stringi buyuk harfe cevirir
 a.lower() #stringi kucuk harfe cevirir
 
@@ -47,6 +48,8 @@ d.islower()
 d.isupper() #buyuk harf mi diye kontrol eder
 
 a.replace("e","a") #e'leri a ile degistirir
+
+a.split() #kelimeleri ayirir
 
 a
 a.replace("o", "u")
