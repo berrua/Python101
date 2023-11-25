@@ -64,3 +64,6 @@ a = "* hello *"
 a.strip("*")
 a = "hellok"
 a.strip("k")
+
+my_boolean = True
+is_dead = False

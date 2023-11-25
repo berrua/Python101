@@ -63,7 +63,7 @@ sozluk
 
 sozluk["REG"] = "Coklu Dogrusal Reg" #guncelleme
 sozluk
-
+ 
 sozluk[1] = "Yapay Sinir Aglari" #ekleme
 sozluk
 

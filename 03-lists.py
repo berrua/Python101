@@ -27,10 +27,11 @@ tum_liste = [liste, liste_genis]
 
 notlar = [90,80,70,60]
 notlar[1]
-notlar[5]
+notlar[3]
 notlar[:2]
 notlar[2:]
 
+#nested list 
 yeni_liste = ["a", 10,[20,30,40,50]]
 yeni_liste[2][1] #30
 
